@@ -1,4 +1,4 @@
-name: effenaf
+name: EFFENAF.
 favicon: null
 layout_spectrum: 0.09633604157716036
 typography_spectrum: 0.2370720598846674
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000001'
+    - '#544c3d'
+    - '#aca292'
+    - '#dc2838'
+    - '#4b86dc'
   brandStrength: 0.8342436880338937
   lightness: 0.9237540238536894
   saturation: 0.9498027828522027
